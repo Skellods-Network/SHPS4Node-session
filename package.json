@@ -1,0 +1,10 @@
+{
+    "name": "SHPS4Node-session",
+    "version": "1.0.0",
+    "description": "SESSION Implementation used by SHPS",
+    "author": "Marco Alka <me@marco-alka.de>",
+    "main": "index-session.js",
+    "dependencies": {
+        "node-mod-load": "^2.1.0"
+    }
+}
